@@ -25,7 +25,7 @@ Here are some of my notable projects:
 ## 📈 GitHub Stats
 
 [![S0ulflared's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0ulflared)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://app.daily.dev/soulflared"><img src="https://api.daily.dev/devcards/v2/sRt80kEQBe1qj4urOQ8xQ.png?type=default&r=9sb" width="356" alt="Connor Watson's Dev Card"/></a>
 ## 📫 Get in Touch
 
 - Email:(cluelessmanx9@gmail.com)
