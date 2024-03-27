@@ -24,7 +24,7 @@ Here are some of my notable projects:
 
 ## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=S0ulflared&show_icons=true&theme=radical)
+[![S0ulflared's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0ulflared)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
 
